@@ -1,213 +1,259 @@
 <h1 align="center">Dhanumjaya Saggurthi</h1>
 
 <p align="center">
-  <b>AI Lead Architect · GenAI Systems · RAG · Agentic AI · Cloud Data Engineering</b>
+  <b>AI Lead Architect · Enterprise GenAI · RAG Systems · Agentic AI · Cloud Data Architecture</b>
 </p>
 
 <p align="center">
-  I architect and build enterprise-grade Generative AI platforms, retrieval-augmented generation systems,
-  autonomous AI agents, document intelligence pipelines, and cloud-native data solutions.
+  I architect enterprise-grade Generative AI platforms, retrieval systems, agentic workflows,
+  document intelligence solutions, and governed cloud data architectures for production environments.
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/dhanumjayasaggurthi">
     <img src="https://img.shields.io/badge/LinkedIn-Dhanumjaya%20Saggurthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/SnowPro-Core-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Enterprise%20GenAI-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-AI%20Lead%20Architect-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Certified-SnowPro%20Core-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
 </p>
 
 ---
 
-## About Me
+## Architect Profile
 
-I am an AI Lead Architect and Data Engineer focused on building production-ready Generative AI and cloud data systems for enterprise environments.
+I focus on defining, designing, and governing enterprise AI systems from architecture strategy through production execution.
 
-My work spans:
+My work centers on transforming complex business, compliance, and data problems into scalable AI and data platform architectures. I specialize in designing systems where Generative AI, retrieval, automation, cloud data platforms, and governance must work together reliably.
+
+Core architecture areas:
 
 - Enterprise Generative AI platforms
-- Retrieval-Augmented Generation systems
-- Agentic AI workflows
-- Vector search and semantic retrieval
-- OCR-powered document intelligence
-- Snowflake-centered data platforms
-- Real-time and batch data pipelines
-- Secure, scalable AI service deployment
-
-I have delivered GenAI assistants, compliance query bots, document ingestion engines, and AI-driven data-quality workflows in enterprise healthcare environments.
+- Retrieval-Augmented Generation architecture
+- Agentic AI workflow design
+- Vector search and semantic retrieval strategy
+- OCR and unstructured document intelligence
+- Snowflake-centered cloud data architecture
+- AI governance, auditability, and production-readiness
+- Secure API and microservice-based AI deployment patterns
 
 ---
 
-## Core Architecture Focus
+## Architecture Domains
+
+| Domain | Architecture Focus |
+|---|---|
+| Enterprise GenAI | LLM platform design, assistant architecture, orchestration patterns, governance |
+| RAG Systems | Retrieval design, chunking strategy, embeddings, vector stores, relevance tuning |
+| Agentic AI | Planning-execution-reflection loops, autonomous workflows, human-in-the-loop controls |
+| Document Intelligence | OCR architecture, PDF/image extraction, semantic indexing, knowledge ingestion |
+| Cloud Data Platforms | Snowflake architecture, DBT models, Airflow orchestration, Spark/Kafka pipelines |
+| AI Productionization | FastAPI services, secure deployment, observability, scalability, SLA alignment |
+| Regulated Environments | Compliance-aware design, audit trails, access controls, data-quality governance |
+
+---
+
+## Enterprise AI Reference Architecture
 
 ```mermaid
 flowchart TD
-    A[Enterprise Data Sources] --> B[Ingestion Layer]
-    B --> C[OCR / Parsing / Cleaning]
-    C --> D[Chunking + Metadata Enrichment]
-    D --> E[Embedding Generation]
-    E --> F[(Vector Database)]
-    F --> G[Retriever Layer]
-    G --> H[LLM Orchestration]
-    H --> I[FastAPI AI Service]
-    I --> J[Knowledge Assistant]
-    I --> K[Compliance Query Bot]
-    I --> L[Agentic Workflow Engine]
-    L --> M[(Snowflake / Enterprise Data Platform)]
+    A[Enterprise Data Sources] --> B[Ingestion Architecture]
+
+    B --> C1[Structured Data Pipelines]
+    B --> C2[Unstructured Document Pipelines]
+
+    C1 --> D1[Snowflake / Data Platform]
+    C2 --> D2[OCR + Text Extraction]
+
+    D2 --> E[Chunking + Metadata Strategy]
+    E --> F[Embedding Generation]
+    F --> G[(Vector Store)]
+
+    D1 --> H[Business Rules + Data Quality Layer]
+    G --> I[Retrieval Layer]
+
+    I --> J[LLM Orchestration Layer]
+    H --> J
+
+    J --> K[AI Service Layer]
+    K --> L[Knowledge Assistant]
+    K --> M[Compliance Query Bot]
+    K --> N[Agentic Workflow Engine]
+
+    N --> O[Monitoring + Audit + Feedback]
+    O --> J
 ```
 
 ---
 
-## What I Build
-
-| Area | Systems |
-|---|---|
-| Generative AI | Enterprise assistants, RAG platforms, compliance bots, LLM applications |
-| Agentic AI | Planning-execution-reflection agents, autonomous data-quality workflows |
-| Retrieval Systems | Vector search, embeddings, semantic search, hybrid retrieval |
-| Document Intelligence | OCR pipelines, PDF extraction, scanned document processing |
-| Data Engineering | Snowflake, DBT, Airflow, Spark, Kafka, StreamSets |
-| Cloud AI | AWS, GCP, Azure, FastAPI, containerized AI services |
-
----
-
-## Featured System Designs
+## Signature Architecture Work
 
 ### Enterprise GenAI Knowledge Assistant
 
-Architected an LLM-powered knowledge assistant for SOP and regulatory content access across enterprise users.
+Architected an enterprise knowledge assistant for SOP and regulatory content access across a large internal user base.
 
-**Architecture components**
+**Architecture responsibilities**
 
-- Llama-3 based assistant workflow
-- LangChain orchestration
-- Pinecone and pgvector retrieval layer
-- FastAPI microservice backend
-- Multi-tenant service architecture
-- Sub-700ms response target
+- Defined end-to-end RAG architecture
+- Designed embedding, chunking, and indexing strategy
+- Established vector retrieval behavior using Pinecone and pgvector
+- Designed FastAPI-based AI service layer
+- Supported multi-tenant enterprise access patterns
+- Optimized for sub-700ms response performance
 - Designed for 3,000+ internal users
 
----
-
-### OCR + Unstructured Document Ingestion Platform
-
-Designed an OCR-powered pipeline for processing scanned PDFs, documents, and unstructured enterprise content.
-
-**Capabilities**
-
-- PDF and image extraction
-- Google Vision API OCR
-- Text parsing and cleanup
-- Semantic chunking
-- Embedding generation
-- FAISS / pgvector indexing
-- RAG-ready document retrieval
-
----
-
-### Agentic Data Quality Workflow Engine
-
-Architected an AI agent loop to monitor, detect, and remediate data-quality issues in Snowflake.
+**Architecture pattern**
 
 ```mermaid
 flowchart LR
-    A[Monitor Snowflake Tables] --> B[Detect Anomaly]
-    B --> C[Reason About Root Cause]
-    C --> D[Plan Remediation]
-    D --> E[Execute Fix or Alert]
-    E --> F[Validate Result]
-    F --> G[Log + Reflect]
+    A[SOP / Regulatory Content] --> B[Document Processing]
+    B --> C[Chunking + Metadata]
+    C --> D[Embeddings]
+    D --> E[(Vector Store)]
+    E --> F[Retriever]
+    F --> G[LLM Orchestrator]
+    G --> H[Enterprise Assistant]
 ```
-
-**Impact**
-
-- Reduced manual triage effort by approximately 60%
-- Improved SLA adherence for enterprise reporting
-- Combined Snowflake, AI reasoning, and workflow automation
 
 ---
 
-## Technical Stack
+### Agentic Data Quality Architecture
 
-### AI / LLM Engineering
+Architected an AI-driven workflow engine for monitoring and remediating Snowflake data-quality issues.
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-black?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Autonomous%20Workflows-blueviolet?style=for-the-badge)
+**Architecture responsibilities**
 
-### Vector Search / Retrieval
+- Designed planning-execution-reflection agent loop
+- Integrated Snowflake monitoring with AI reasoning
+- Defined anomaly detection and remediation flow
+- Established validation and feedback loop
+- Reduced manual triage effort by approximately 60%
+- Supported SLA-driven enterprise reporting
 
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-blue?style=for-the-badge)
-![pgvector](https://img.shields.io/badge/pgvector-PostgreSQL%20Vectors-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Agentic workflow pattern**
 
-### Data Engineering
+```mermaid
+flowchart LR
+    A[Monitor Data Assets] --> B[Detect Anomaly]
+    B --> C[Classify Issue]
+    C --> D[Reason About Root Cause]
+    D --> E[Plan Remediation]
+    E --> F[Execute Action or Escalate]
+    F --> G[Validate Outcome]
+    G --> H[Log, Audit, Reflect]
+```
 
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+---
 
-### Backend / Cloud
+### OCR + Document Intelligence Architecture
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+Architected an unstructured document ingestion platform for scanned PDFs, images, and enterprise knowledge assets.
 
-### Analytics / BI
+**Architecture responsibilities**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+- Designed OCR-based ingestion pipeline
+- Integrated Google Vision API for scanned document extraction
+- Defined semantic chunking and metadata enrichment strategy
+- Designed FAISS and pgvector-based retrieval layer
+- Enabled downstream RAG, chatbot, and semantic search use cases
+
+**Document intelligence pattern**
+
+```mermaid
+flowchart TD
+    A[PDFs / Scanned Images / Documents] --> B[OCR Processing]
+    B --> C[Text Normalization]
+    C --> D[Semantic Chunking]
+    D --> E[Metadata Enrichment]
+    E --> F[Embedding Generation]
+    F --> G[(FAISS / pgvector)]
+    G --> H[RAG / Semantic Search / Knowledge Assistant]
+```
+
+---
+
+## Architecture Principles
+
+I design AI and data systems around the following principles:
+
+| Principle | Description |
+|---|---|
+| Production First | Architect for deployment, scale, monitoring, security, and maintainability from the beginning |
+| Retrieval Quality | Treat retrieval design as a core architecture concern, not a secondary implementation detail |
+| Governance by Design | Build auditability, access control, lineage, and compliance into the architecture |
+| Human-in-the-Loop | Use controlled autonomy where AI systems can reason, recommend, escalate, and validate |
+| Modular AI Services | Separate ingestion, retrieval, orchestration, evaluation, and service layers |
+| Measurable Outcomes | Tie architecture decisions to latency, quality, cost, SLA, and user-impact metrics |
+| Enterprise Fit | Align AI architecture with data platforms, business workflows, and compliance requirements |
+
+---
+
+## AI Architecture Stack
+
+### Generative AI & Orchestration
+
+`LLM Applications` · `RAG` · `Agentic AI` · `LangChain` · `OpenAI APIs` · `Hugging Face` · `Prompt Engineering` · `LLM Evaluation`
+
+### Retrieval & Vector Architecture
+
+`Pinecone` · `FAISS` · `pgvector` · `Semantic Search` · `Vector Databases` · `Embeddings` · `Hybrid Retrieval` · `Metadata Filtering`
+
+### Document Intelligence
+
+`OCR` · `Google Vision API` · `PDF Extraction` · `Image Text Extraction` · `Chunking Strategy` · `Document Embeddings`
+
+### Cloud Data Architecture
+
+`Snowflake` · `DBT` · `Airflow` · `StreamSets` · `Databricks` · `Apache Spark` · `Kafka` · `SQL`
+
+### AI Service & Platform Layer
+
+`Python` · `FastAPI` · `Microservices` · `GitHub Actions` · `AWS` · `GCP` · `Azure` · `Containerized Deployment`
+
+### Analytics & Decision Intelligence
+
+`Power BI` · `Tableau` · `Looker` · `Machine Learning` · `NLP` · `Forecasting` · `Statistical Modeling`
 
 ---
 
 ## Professional Highlights
 
 - AI Lead Architect and Innovation Leader for enterprise GenAI initiatives
+- Architected GenAI knowledge assistant used by 3,000+ internal users
+- Designed RAG pipelines and vector-based knowledge stores for production workloads
+- Architected agentic workflows for Snowflake data-quality remediation
+- Reduced manual data-quality triage effort by approximately 60%
+- Designed OCR-powered ingestion architecture for PDFs and scanned content
 - SnowPro Core certified
-- Recipient of Birlasoft Mercury Award for high-impact delivery
-- Architected RAG systems and vector-based knowledge platforms
-- Designed OCR-powered document ingestion pipelines
-- Built agentic workflows for Snowflake data-quality automation
-- Led technical direction for cross-functional engineering teams
+- Recipient of Birlasoft Mercury Award for high-impact enterprise GenAI delivery
 
 ---
 
-## Recommended Public Portfolio Repositories
+## Architecture Portfolio Direction
 
-These are the types of repositories I am building to demonstrate production-grade AI architecture patterns:
+I use GitHub to document reusable architecture patterns for enterprise AI systems.
 
-| Repository | Description |
+| Reference Architecture | Focus |
 |---|---|
-| `enterprise-rag-reference-architecture` | End-to-end RAG system using FastAPI, LangChain, pgvector, evaluation, and observability |
-| `agentic-data-quality-engine` | AI agent workflow for Snowflake anomaly detection and remediation |
-| `document-intelligence-ocr-rag` | OCR + PDF ingestion + embedding + vector retrieval pipeline |
-| `genai-compliance-query-bot` | RAG-based regulatory and compliance query assistant |
-| `snowflake-ai-observability` | Data-quality metrics, diagnostics, alerts, and AI-generated issue summaries |
+| `enterprise-rag-reference-architecture` | RAG platform design with retrieval, evaluation, APIs, and observability |
+| `agentic-data-quality-architecture` | Agent-based Snowflake anomaly detection and remediation workflow |
+| `document-intelligence-rag-platform` | OCR, PDF ingestion, vector indexing, and semantic retrieval |
+| `genai-compliance-query-architecture` | Compliance-focused RAG assistant over structured and unstructured data |
+| `cloud-ai-platform-blueprints` | Secure cloud-native patterns for enterprise AI deployment |
 
 ---
 
 ## Current Focus
 
-- Production-grade Generative AI systems
-- Enterprise RAG architecture and retrieval optimization
-- Agentic AI for data operations
-- Document intelligence and semantic search
-- Secure AI systems for regulated industries
-- Cloud-native data and AI platforms
+- Enterprise GenAI platform architecture
+- RAG quality, evaluation, and retrieval optimization
+- Agentic AI workflows for data operations
+- AI systems for regulated and compliance-heavy environments
+- Snowflake-centered data and AI platform modernization
+- Production-readiness, governance, and scalable AI service design
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhanumjayasaggurthi&show_icons=true&hide_border=true&count_private=true" />
