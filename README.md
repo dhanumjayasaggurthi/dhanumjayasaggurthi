@@ -1,19 +1,235 @@
-# 💫 About Me:
-## AI Lead Architect | GenAI Systems | RAG | Agentic AI | Cloud Data Engineering
-<br>I architect and build enterprise-grade Generative AI platforms, RAG systems, autonomous AI agents, and cloud-native data solutions. My expertise spans LLM application design, vector databases, semantic search, OCR-powered document intelligence, Snowflake data platforms, real-time pipelines, and secure production deployment.<br><br>I have delivered GenAI knowledge assistants, compliance query bots, document ingestion engines, and AI-driven data-quality workflows for enterprise healthcare environments, combining technologies such as Python, FastAPI, LangChain, Pinecone, FAISS, pgvector, Snowflake, Airflow, DBT, Spark, Kafka, AWS, GCP, and Azure.<br><br>SnowPro Core certified and recipient of Birlasoft’s Mercury Award, I focus on transforming advanced AI concepts into scalable, governed, production-ready enterprise systems.
+<h1 align="center">Dhanumjaya Saggurthi</h1>
 
+<p align="center">
+  <b>AI Lead Architect · GenAI Systems · RAG · Agentic AI · Cloud Data Engineering</b>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanumjayasaggurthi) 
+<p align="center">
+  I architect and build enterprise-grade Generative AI platforms, retrieval-augmented generation systems,
+  autonomous AI agents, document intelligence pipelines, and cloud-native data solutions.
+</p>
 
-# 💻 Tech Stack:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=plastic&logo=datadog&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=plastic&logo=elasticsearch&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=plastic&logo=snowflake&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=plastic&logo=SemanticUIReact&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=plastic&logo=teradata&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=plastic&labelColor=171717&logoColor=5cb85c) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dhanumjayasaggurthi&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=dhanumjayasaggurthi&theme=flag-india&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dhanumjayasaggurthi&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://linkedin.com/in/dhanumjayasaggurthi">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhanumjaya%20Saggurthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/SnowPro-Core-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Enterprise%20GenAI-black?style=for-the-badge" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=dhanumjayasaggurthi&icon=9&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I am an AI Lead Architect and Data Engineer focused on building production-ready Generative AI and cloud data systems for enterprise environments.
+
+My work spans:
+
+- Enterprise Generative AI platforms
+- Retrieval-Augmented Generation systems
+- Agentic AI workflows
+- Vector search and semantic retrieval
+- OCR-powered document intelligence
+- Snowflake-centered data platforms
+- Real-time and batch data pipelines
+- Secure, scalable AI service deployment
+
+I have delivered GenAI assistants, compliance query bots, document ingestion engines, and AI-driven data-quality workflows in enterprise healthcare environments.
+
+---
+
+## Core Architecture Focus
+
+```mermaid
+flowchart TD
+    A[Enterprise Data Sources] --> B[Ingestion Layer]
+    B --> C[OCR / Parsing / Cleaning]
+    C --> D[Chunking + Metadata Enrichment]
+    D --> E[Embedding Generation]
+    E --> F[(Vector Database)]
+    F --> G[Retriever Layer]
+    G --> H[LLM Orchestration]
+    H --> I[FastAPI AI Service]
+    I --> J[Knowledge Assistant]
+    I --> K[Compliance Query Bot]
+    I --> L[Agentic Workflow Engine]
+    L --> M[(Snowflake / Enterprise Data Platform)]
+```
+
+---
+
+## What I Build
+
+| Area | Systems |
+|---|---|
+| Generative AI | Enterprise assistants, RAG platforms, compliance bots, LLM applications |
+| Agentic AI | Planning-execution-reflection agents, autonomous data-quality workflows |
+| Retrieval Systems | Vector search, embeddings, semantic search, hybrid retrieval |
+| Document Intelligence | OCR pipelines, PDF extraction, scanned document processing |
+| Data Engineering | Snowflake, DBT, Airflow, Spark, Kafka, StreamSets |
+| Cloud AI | AWS, GCP, Azure, FastAPI, containerized AI services |
+
+---
+
+## Featured System Designs
+
+### Enterprise GenAI Knowledge Assistant
+
+Architected an LLM-powered knowledge assistant for SOP and regulatory content access across enterprise users.
+
+**Architecture components**
+
+- Llama-3 based assistant workflow
+- LangChain orchestration
+- Pinecone and pgvector retrieval layer
+- FastAPI microservice backend
+- Multi-tenant service architecture
+- Sub-700ms response target
+- Designed for 3,000+ internal users
+
+---
+
+### OCR + Unstructured Document Ingestion Platform
+
+Designed an OCR-powered pipeline for processing scanned PDFs, documents, and unstructured enterprise content.
+
+**Capabilities**
+
+- PDF and image extraction
+- Google Vision API OCR
+- Text parsing and cleanup
+- Semantic chunking
+- Embedding generation
+- FAISS / pgvector indexing
+- RAG-ready document retrieval
+
+---
+
+### Agentic Data Quality Workflow Engine
+
+Architected an AI agent loop to monitor, detect, and remediate data-quality issues in Snowflake.
+
+```mermaid
+flowchart LR
+    A[Monitor Snowflake Tables] --> B[Detect Anomaly]
+    B --> C[Reason About Root Cause]
+    C --> D[Plan Remediation]
+    D --> E[Execute Fix or Alert]
+    E --> F[Validate Result]
+    F --> G[Log + Reflect]
+```
+
+**Impact**
+
+- Reduced manual triage effort by approximately 60%
+- Improved SLA adherence for enterprise reporting
+- Combined Snowflake, AI reasoning, and workflow automation
+
+---
+
+## Technical Stack
+
+### AI / LLM Engineering
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-black?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Autonomous%20Workflows-blueviolet?style=for-the-badge)
+
+### Vector Search / Retrieval
+
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-blue?style=for-the-badge)
+![pgvector](https://img.shields.io/badge/pgvector-PostgreSQL%20Vectors-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Data Engineering
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Backend / Cloud
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Analytics / BI
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+
+---
+
+## Professional Highlights
+
+- AI Lead Architect and Innovation Leader for enterprise GenAI initiatives
+- SnowPro Core certified
+- Recipient of Birlasoft Mercury Award for high-impact delivery
+- Architected RAG systems and vector-based knowledge platforms
+- Designed OCR-powered document ingestion pipelines
+- Built agentic workflows for Snowflake data-quality automation
+- Led technical direction for cross-functional engineering teams
+
+---
+
+## Recommended Public Portfolio Repositories
+
+These are the types of repositories I am building to demonstrate production-grade AI architecture patterns:
+
+| Repository | Description |
+|---|---|
+| `enterprise-rag-reference-architecture` | End-to-end RAG system using FastAPI, LangChain, pgvector, evaluation, and observability |
+| `agentic-data-quality-engine` | AI agent workflow for Snowflake anomaly detection and remediation |
+| `document-intelligence-ocr-rag` | OCR + PDF ingestion + embedding + vector retrieval pipeline |
+| `genai-compliance-query-bot` | RAG-based regulatory and compliance query assistant |
+| `snowflake-ai-observability` | Data-quality metrics, diagnostics, alerts, and AI-generated issue summaries |
+
+---
+
+## Current Focus
+
+- Production-grade Generative AI systems
+- Enterprise RAG architecture and retrieval optimization
+- Agentic AI for data operations
+- Document intelligence and semantic search
+- Secure AI systems for regulated industries
+- Cloud-native data and AI platforms
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanumjayasaggurthi&show_icons=true&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanumjayasaggurthi&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanumjayasaggurthi&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="mailto:saggurthidhanumjaya1996@gmail.com">
+    <img src="https://img.shields.io/badge/Email-saggurthidhanumjaya1996%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/dhanumjayasaggurthi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
