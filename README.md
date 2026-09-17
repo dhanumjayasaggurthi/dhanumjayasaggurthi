@@ -1,335 +1,264 @@
 <!--
 Dhanumjaya Saggurthi
-AI Lead Architect | Enterprise GenAI | RAG Systems | Agentic AI | Cloud Data Architecture
-Brand direction: J&J-inspired professional red, black, white, and neutral gray.
+AI Architect • Applied AI Engineer • AI Product Builder
+Portfolio positioning: breadth across GenAI, Agentic AI, RAG, Computer Vision, Predictive AI, Data/Cloud, Multimodal and immersive systems.
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D71920,100:9F1D20&height=150&section=header&text=Dhanumjaya%20Saggurthi&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=AI%20Lead%20Architect%20%7C%20Enterprise%20GenAI%20%7C%20RAG%20Systems%20%7C%20Agentic%20AI&descAlignY=70&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D71920,100=111111&height=165&section=header&text=Dhanumjaya%20Saggurthi&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=AI%20Architect%20%E2%80%A2%20Applied%20AI%20Engineer%20%E2%80%A2%20AI%20Product%20Builder&descAlignY=69&descSize=16" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/dhanumjayasaggurthi">
-    <img src="https://img.shields.io/badge/LinkedIn-Dhanumjaya%20Saggurthi-D71920?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:saggurthidhanumjaya1996@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D71920?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Role-AI%20Lead%20Architect-1F1F1F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SnowPro-Core-6B7280?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <a href="https://linkedin.com/in/dhanumjayasaggurthi"><img src="https://img.shields.io/badge/LinkedIn-Connect-D71920?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:saggurthidhanumjaya1996@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <b>Enterprise AI Architecture · Regulated Data Platforms · Production-Ready GenAI Systems</b>
-</p>
+<p align="center"><b>I design and build AI systems that can perceive, predict, retrieve, reason, generate, automate, and act.</b></p>
 
 ---
 
-## Architect Profile
+## Who I Am
 
-I focus on defining, designing, and governing enterprise AI systems from architecture strategy through production execution.
+I am an **AI architect and hands-on applied AI engineer** working across the full AI system lifecycle: data, models, retrieval, agents, APIs, cloud platforms, interfaces, governance, and production delivery.
 
-My work centers on transforming complex business, compliance, and data problems into scalable AI and data platform architectures. I specialize in systems where Generative AI, retrieval, automation, cloud data platforms, and governance must work together reliably.
+My work is broader than Generative AI alone. I build across **machine learning, predictive analytics, computer vision, facial recognition, recommendation systems, document intelligence, RAG, agentic AI, multimodal applications, data platforms, and immersive AI experiences**.
 
-I bring an architecture-first perspective to enterprise AI: clear system boundaries, governed data flow, secure service design, measurable performance, and production readiness.
-
----
-
-## Core Architecture Areas
-
-<table>
-<tr>
-<td width="50%">
-
-### Enterprise AI
-
-- Generative AI platform architecture
-- Retrieval-Augmented Generation systems
-- Agentic AI workflow design
-- LLM orchestration patterns
-- Knowledge assistant architecture
-- Compliance-aware AI systems
-
-</td>
-<td width="50%">
-
-### Data & Platform Architecture
-
-- Snowflake-centered data platforms
-- Vector search and semantic retrieval
-- OCR and document intelligence pipelines
-- Data-quality automation
-- Secure AI service layers
-- Observability, governance, and auditability
-
-</td>
-</tr>
-</table>
+I am strongest where architecture and implementation meet: translating a business problem into a working AI system with clear data flows, model behavior, APIs, controls, observability, user experience, and measurable outcomes.
 
 ---
 
-## Architecture Domains
+## Capability Map
 
-| Domain | Architecture Focus |
+| Area | What I can design and build |
 |---|---|
-| Enterprise GenAI | LLM platform design, assistant architecture, orchestration patterns, governance |
-| RAG Systems | Retrieval design, chunking strategy, embeddings, vector stores, relevance tuning |
-| Agentic AI | Planning-execution-reflection loops, autonomous workflows, human-in-the-loop controls |
-| Document Intelligence | OCR architecture, PDF/image extraction, semantic indexing, knowledge ingestion |
-| Cloud Data Platforms | Snowflake architecture, DBT models, Airflow orchestration, Spark/Kafka pipelines |
-| AI Productionization | FastAPI services, secure deployment, observability, scalability, SLA alignment |
-| Regulated Environments | Compliance-aware design, audit trails, access controls, data-quality governance |
+| **Generative AI** | Enterprise assistants, multi-model applications, prompt/orchestration layers, grounded generation, structured outputs |
+| **Agentic AI** | Tool-using agents, planning/execution loops, permission gates, human-in-the-loop workflows, autonomous task execution |
+| **RAG & Knowledge AI** | Ingestion, chunking, embeddings, metadata, semantic retrieval, vector databases, evaluation, grounded Q&A |
+| **Computer Vision** | Facial recognition, image analysis, OCR, visual classification, detection-oriented workflows, vision-enabled applications |
+| **Predictive AI / ML** | Regression, classification, forecasting, risk scoring, recommendation, trend prediction, predictive analytics |
+| **Document Intelligence** | PDF/image processing, OCR, table extraction, semantic indexing, enterprise knowledge pipelines |
+| **Recommendation Systems** | Preference modeling, personalization, ranking, behavioral signals, recommendation workflows |
+| **Multimodal AI** | Text, image, voice, file, document and model interactions in unified applications |
+| **Data & AI Platforms** | Snowflake, PostgreSQL, pgvector, ETL/ELT, data quality, feature/data pipelines, analytics layers |
+| **AI Product Engineering** | FastAPI, React, WebSockets, authentication, streaming, state, admin tooling, deployment patterns |
+| **Cloud AI** | Azure/OpenAI integrations, AWS workflows, GCP services, object storage, cloud-native architecture |
+| **Immersive / Spatial AI** | WebXR, VR prototypes, AI-powered interactive experiences, voice and spatial interfaces |
+| **Decision Intelligence** | BI, dashboards, financial analysis, scenario logic, analytical decision-support systems |
 
 ---
 
-## Enterprise AI Reference Architecture
-
-```mermaid
-flowchart TD
-    A[Enterprise Data Sources] --> B[Ingestion Architecture]
-
-    B --> C1[Structured Data Pipelines]
-    B --> C2[Unstructured Document Pipelines]
-
-    C1 --> D1[Snowflake / Data Platform]
-    C2 --> D2[OCR + Text Extraction]
-
-    D2 --> E[Chunking + Metadata Strategy]
-    E --> F[Embedding Generation]
-    F --> G[(Vector Store)]
-
-    D1 --> H[Business Rules + Data Quality Layer]
-    G --> I[Retrieval Layer]
-
-    I --> J[LLM Orchestration Layer]
-    H --> J
-
-    J --> K[AI Service Layer]
-
-    K --> L[Knowledge Assistant]
-    K --> M[Compliance Query Bot]
-    K --> N[Agentic Workflow Engine]
-
-    N --> O[Monitoring + Audit + Feedback]
-    O --> J
-```
-
----
-
-## Signature Architecture Work
-
-### Enterprise GenAI Knowledge Assistant
-
-Architected an enterprise knowledge assistant for SOP and regulatory content access across a large internal user base.
-
-**Architecture responsibilities**
-
-- Defined end-to-end RAG architecture
-- Designed embedding, chunking, and indexing strategy
-- Established vector retrieval behavior using Pinecone and pgvector
-- Designed FastAPI-based AI service layer
-- Supported multi-tenant enterprise access patterns
-- Optimized for sub-700ms response performance
-- Designed for 3,000+ internal users
-
-**Architecture pattern**
+## The Kind of Systems I Build
 
 ```mermaid
 flowchart LR
-    A[SOP / Regulatory Content] --> B[Document Processing]
-    B --> C[Chunking + Metadata]
-    C --> D[Embeddings]
-    D --> E[(Vector Store)]
-    E --> F[Retriever]
-    F --> G[LLM Orchestration]
-    G --> H[Enterprise Assistant]
+    A[Enterprise Data / Images / Documents / Events] --> B[Data & Ingestion Layer]
+    B --> C1[ML / Predictive Models]
+    B --> C2[Computer Vision / OCR]
+    B --> C3[Embeddings / Vector Index]
+
+    C1 --> D[Decision & Intelligence Layer]
+    C2 --> D
+    C3 --> E[RAG / Retrieval Layer]
+
+    E --> F[LLM / Multi-Model Orchestration]
+    D --> F
+    F --> G[Agent Runtime]
+    G --> H[Tools / APIs / Code / Files / Web]
+    H --> G
+
+    G --> I[FastAPI / Services / WebSockets]
+    I --> J[Web / Mobile / Voice / Immersive UX]
+
+    F --> K[Evaluation / Governance / Observability]
+    G --> K
 ```
 
 ---
 
-### Agentic Data Quality Architecture
+## Applied AI Experience
 
-Architected an AI-driven workflow engine for monitoring and remediating Snowflake data-quality issues.
+### Agentic & Multi-Model AI
 
-**Architecture responsibilities**
+I have built full-stack agentic assistant patterns with:
 
-- Designed planning-execution-reflection agent loop
-- Integrated Snowflake monitoring with AI reasoning
-- Defined anomaly detection and remediation flow
-- Established validation and feedback loop
-- Reduced manual triage effort by approximately 60%
-- Supported SLA-driven enterprise reporting
+- Multi-provider model routing across OpenAI/Azure, Anthropic/Bedrock and Gemini-style providers
+- Streaming chat and WebSocket interaction
+- Tool execution for files, code, web access and document creation
+- Permission-based Allow/Deny execution controls
+- Isolated per-conversation workspaces
+- Cross-conversation context patterns
+- Image generation, speech-to-text and text-to-speech
+- Authentication, usage monitoring and administrative controls
+- PostgreSQL-backed application state and vector-ready storage
 
-**Agentic workflow pattern**
+### RAG, Search & Document Intelligence
 
-```mermaid
-flowchart LR
-    A[Monitor Data Assets] --> B[Detect Anomaly]
-    B --> C[Classify Issue]
-    C --> D[Reason About Root Cause]
-    D --> E[Plan Remediation]
-    E --> F[Execute Action or Escalate]
-    F --> G[Validate Outcome]
-    G --> H[Log, Audit, Reflect]
-```
+My retrieval work includes:
+
+- PDF parsing and scanned-document OCR
+- Table extraction and document normalization
+- Chunking and metadata design
+- Embedding pipelines
+- pgvector / FAISS / vector-search patterns
+- Semantic retrieval and grounded response workflows
+- S3 and file-system ingestion
+- Enterprise knowledge assistant architecture
+
+### Predictive AI & Machine Learning
+
+My ML foundation includes projects and coursework in:
+
+- Predictive analytics and business forecasting
+- Multiple linear regression for medical insurance cost prediction
+- Classification for employee satisfaction prediction
+- Credit-risk modeling and customer credit scoring
+- Sales prediction and trend analysis
+- Recommendation systems using preference and behavioral data
+- Data mining, feature analysis, correlation and model evaluation
+
+### Computer Vision & Visual AI
+
+I work with vision-oriented AI including:
+
+- Facial recognition workflows
+- Image analysis and classification concepts
+- OCR and scanned-image intelligence
+- Vision APIs and image-to-knowledge pipelines
+- Multimodal applications combining visual inputs with language models
+
+### AI + Data Platforms
+
+- Snowflake-centered data architecture
+- Data quality automation and anomaly workflows
+- PostgreSQL + pgvector
+- DBT / Airflow / Spark / Kafka patterns
+- Cloud ingestion and storage
+- Analytics, BI and decision-support systems
+
+### Immersive & Experimental AI
+
+I also explore AI beyond conventional chat interfaces:
+
+- Browser-based WebXR / VR experiences
+- Interactive 3D experiences for Meta Quest-class devices
+- Spatial audio and narration
+- AI-generated voice and visual assets
+- Immersive prototypes for product and investor demonstrations
 
 ---
 
-### OCR and Document Intelligence Architecture
+## Selected Engineering Evidence
 
-Architected an unstructured document ingestion platform for scanned PDFs, images, and enterprise knowledge assets.
+### `agentic-assistant` — private
 
-**Architecture responsibilities**
+A full-stack enterprise AI assistant demonstrating multi-model orchestration, agent tools, document generation, voice, image generation, WebSockets, PostgreSQL, pgvector-ready storage, authentication, isolated workspaces, permission controls and administration.
 
-- Designed OCR-based ingestion pipeline
-- Integrated Google Vision API for scanned document extraction
-- Defined semantic chunking and metadata enrichment strategy
-- Designed FAISS and pgvector-based retrieval layer
-- Enabled downstream RAG, chatbot, and semantic search use cases
+### [`chunk_vectors`](https://github.com/dhanumjayasaggurthi/chunk_vectors) — public
 
-**Document intelligence pattern**
+A modular document-ingestion and retrieval system with crawling, PDF processing, OCR, table extraction, chunking, embeddings, PostgreSQL/pgvector, OpenAI integration and AWS/S3 workflows.
 
-```mermaid
-flowchart TD
-    A[PDFs / Scanned Images / Documents] --> B[OCR Processing]
-    B --> C[Text Normalization]
-    C --> D[Semantic Chunking]
-    D --> E[Metadata Enrichment]
-    E --> F[Embedding Generation]
-    F --> G[(FAISS / pgvector)]
-    G --> H[RAG / Semantic Search / Knowledge Assistant]
-```
+### `ai_vr_demo` — private
+
+Immersive WebXR/VR experimentation combining interactive 3D experiences, spatial interaction and AI-generated narration/audio for browser and headset demonstrations.
+
+### `wealth-shield-site` — private
+
+A decision-support product that combines structured financial inputs, calculation logic, analysis, reporting and a production-style React application architecture.
+
+### `aar-labs-ai-showcase` — private
+
+An AI-focused product/site showcasing machine learning, predictive analytics, computer vision, conversational AI, automation and industry AI use cases.
+
+---
+
+## ML & Analytics Foundation
+
+Before the current GenAI wave, my work already covered classical machine learning and analytics:
+
+| Project / Domain | Methods |
+|---|---|
+| Medical insurance cost prediction | Multiple linear regression, feature analysis, visualization |
+| Employee event intelligence | Classification, satisfaction prediction, recommendation, AWS Personalize/Lambda/DynamoDB |
+| Credit risk modeling | Classification, risk segmentation, model evaluation |
+| Customer credit scoring | EDA, correlation analysis, risk categorization |
+| Sales prediction | Predictive modeling, dashboards, business trend analysis |
+| Superstore analytics | Data preprocessing, Power BI, Tableau, Python, business reporting |
+
+This foundation matters because I approach GenAI as part of a broader **AI/ML engineering discipline**, not as an isolated chatbot technology.
+
+---
+
+## Technology Stack
+
+### AI / ML
+
+`Python` · `scikit-learn` · `Regression` · `Classification` · `Forecasting` · `Recommendation Systems` · `NLP` · `Computer Vision` · `Facial Recognition` · `OCR`
+
+### GenAI / Agents
+
+`OpenAI` · `Azure OpenAI` · `Anthropic / Bedrock` · `Gemini / Vertex-style integrations` · `RAG` · `Agentic AI` · `Embeddings` · `Tool Calling` · `MCP`
+
+### Data / Retrieval
+
+`Snowflake` · `PostgreSQL` · `pgvector` · `FAISS` · `Pinecone` · `DBT` · `Airflow` · `Spark` · `Kafka` · `S3`
+
+### Application Engineering
+
+`FastAPI` · `React` · `TypeScript` · `WebSockets` · `REST APIs` · `JWT` · `Docker` · `GitHub Actions`
+
+### Analytics / Visualization
+
+`Power BI` · `Tableau` · `Pandas` · `Matplotlib` · `Excel`
+
+### Cloud / Emerging Interfaces
+
+`AWS` · `Azure` · `GCP` · `WebXR` · `VR` · `Voice AI` · `Image Generation`
 
 ---
 
 ## Architecture Principles
 
-| Principle | Description |
+| Principle | Meaning |
 |---|---|
-| Production First | Architect for deployment, scale, monitoring, security, and maintainability from the beginning |
-| Retrieval Quality | Treat retrieval design as a core architecture concern, not a secondary implementation detail |
-| Governance by Design | Build auditability, access control, lineage, and compliance into the architecture |
-| Human-in-the-Loop | Use controlled autonomy where AI systems can reason, recommend, escalate, and validate |
-| Modular AI Services | Separate ingestion, retrieval, orchestration, evaluation, and service layers |
-| Measurable Outcomes | Tie architecture decisions to latency, quality, cost, SLA, and user-impact metrics |
-| Enterprise Fit | Align AI architecture with data platforms, business workflows, and compliance requirements |
+| **End-to-end ownership** | AI is not just the model; data, retrieval, APIs, UX, security and operations determine whether the system works. |
+| **Use the right AI paradigm** | Not every problem needs an LLM. Use prediction, vision, retrieval, rules, optimization or agents where they fit. |
+| **Architecture should be executable** | System diagrams should map to concrete services, contracts, data stores and runtime behavior. |
+| **Agents require controls** | Autonomous execution needs permissions, validation, auditability and human intervention points. |
+| **Retrieval is a core subsystem** | Chunking, metadata, embeddings, ranking and evaluation deserve first-class engineering attention. |
+| **Production before demos** | Reliability, latency, security, cost and maintainability belong in the design from the beginning. |
+| **Keep learning across paradigms** | Classical ML, GenAI, computer vision, data engineering and emerging interfaces reinforce one another. |
 
 ---
 
-## AI Architecture Stack
+## Professional Development
 
-### Generative AI and Orchestration
-
-<p>
-  <img src="https://img.shields.io/badge/LLM%20Applications-1F1F1F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-D71920?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-9F1D20?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-6B7280?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI%20APIs-1F1F1F?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-6B7280?style=for-the-badge&logo=huggingface&logoColor=white" />
-</p>
-
-### Retrieval and Vector Architecture
-
-<p>
-  <img src="https://img.shields.io/badge/Pinecone-D71920?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FAISS-1F1F1F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/pgvector-9F1D20?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Semantic%20Search-6B7280?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embeddings-1F1F1F?style=for-the-badge" />
-</p>
-
-### Document Intelligence
-
-<p>
-  <img src="https://img.shields.io/badge/OCR-D71920?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google%20Vision%20API-1F1F1F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PDF%20Extraction-6B7280?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Document%20Embeddings-9F1D20?style=for-the-badge" />
-</p>
-
-### Cloud Data Architecture
-
-<p>
-  <img src="https://img.shields.io/badge/Snowflake-D71920?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBT-1F1F1F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Airflow-6B7280?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/StreamSets-9F1D20?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Databricks-1F1F1F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Spark-6B7280?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kafka-D71920?style=for-the-badge" />
-</p>
-
-### AI Service and Platform Layer
-
-<p>
-  <img src="https://img.shields.io/badge/Python-1F1F1F?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-D71920?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-6B7280?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-1F1F1F?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-9F1D20?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-6B7280?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-D71920?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</p>
-
-### Analytics and Decision Intelligence
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-D71920?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tableau-1F1F1F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Looker-6B7280?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-9F1D20?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-1F1F1F?style=for-the-badge" />
-</p>
-
----
-
-## Professional Highlights
-
-- AI Lead Architect and Innovation Leader for enterprise GenAI initiatives
-- Architected GenAI knowledge assistant used by 3,000+ internal users
-- Designed RAG pipelines and vector-based knowledge stores for production workloads
-- Architected agentic workflows for Snowflake data-quality remediation
-- Reduced manual data-quality triage effort by approximately 60%
-- Designed OCR-powered ingestion architecture for PDFs and scanned content
+- AI Lead Architect / Innovation-oriented enterprise AI work
 - SnowPro Core certified
-- Recipient of Birlasoft Mercury Award for high-impact enterprise GenAI delivery
-
----
-
-## Architecture Portfolio Direction
-
-I use GitHub to document reusable architecture patterns for enterprise AI systems.
-
-| Reference Architecture | Focus |
-|---|---|
-| `enterprise-rag-reference-architecture` | RAG platform design with retrieval, evaluation, APIs, and observability |
-| `agentic-data-quality-architecture` | Agent-based Snowflake anomaly detection and remediation workflow |
-| `document-intelligence-rag-platform` | OCR, PDF ingestion, vector indexing, and semantic retrieval |
-| `genai-compliance-query-architecture` | Compliance-focused RAG assistant over structured and unstructured data |
-| `cloud-ai-platform-blueprints` | Secure cloud-native patterns for enterprise AI deployment |
+- AI Agents and Agentic AI with Python & Generative AI — Vanderbilt University
+- Graduate study at Rutgers University with coursework in advanced algorithms, machine learning, and parallel/distributed computing
+- Background in predictive analytics, data mining, databases and business forecasting
 
 ---
 
 ## Current Focus
 
-- Enterprise GenAI platform architecture
-- RAG quality, evaluation, and retrieval optimization
-- Agentic AI workflows for data operations
-- AI systems for regulated and compliance-heavy environments
-- Snowflake-centered data and AI platform modernization
-- Production-readiness, governance, and scalable AI service design
+- Production-grade agentic AI
+- Multimodal AI applications
+- Enterprise RAG and retrieval quality
+- Computer vision and visual intelligence
+- Predictive AI and decision systems
+- AI-driven automation
+- Data + AI platform architecture
+- MCP and interoperable tool ecosystems
+- Human-in-the-loop autonomous systems
+- Spatial and immersive AI interfaces
 
 ---
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanumjayasaggurthi&show_icons=true&hide_border=true&count_private=true&theme=default&title_color=D71920&text_color=1F1F1F&icon_color=D71920" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanumjayasaggurthi&hide_border=true&ring=D71920&fire=D71920&currStreakLabel=D71920&sideLabels=1F1F1F&dates=6B7280" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanumjayasaggurthi&show_icons=true&hide_border=true&count_private=true&title_color=D71920&text_color=1F1F1F&icon_color=D71920" />
 </p>
 
 <p align="center">
@@ -341,16 +270,8 @@ I use GitHub to document reusable architecture patterns for enterprise AI system
 ## Contact
 
 <p align="center">
-  <a href="mailto:saggurthidhanumjaya1996@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saggurthidhanumjaya1996%40gmail.com-D71920?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/dhanumjayasaggurthi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-1F1F1F?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="mailto:saggurthidhanumjaya1996@gmail.com"><img src="https://img.shields.io/badge/Email-saggurthidhanumjaya1996%40gmail.com-D71920?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/dhanumjayasaggurthi"><img src="https://img.shields.io/badge/LinkedIn-Dhanumjaya%20Saggurthi-111111?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <sub>
-    Enterprise AI Architecture · RAG Systems · Agentic AI · Cloud Data Architecture · Production Governance
-  </sub>
-</p>
+<p align="center"><sub>AI systems that perceive • predict • retrieve • reason • generate • automate • act</sub></p>
